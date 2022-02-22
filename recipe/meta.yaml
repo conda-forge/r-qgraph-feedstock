@@ -1,4 +1,4 @@
-{% set version = "1.9" %}
+{% set version = "1.9.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/qgraph_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/qgraph/qgraph_{{ version }}.tar.gz
-  sha256: e1d7489c4db47878dccd34ded7e8173d58a190ad453d2e6e89f33549ccfd10aa
+  sha256: e40dbbff8614ee1c84ef0562633026e431a9bd9a3e6051065977a8ce5c51b798
 
 build:
   merge_build_host: true  # [win]
