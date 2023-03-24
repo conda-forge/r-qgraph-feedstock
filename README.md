@@ -1,11 +1,22 @@
+About r-qgraph-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qgraph-feedstock/blob/main/LICENSE.txt)
+
 About r-qgraph
-==============
+--------------
 
 Home: https://CRAN.R-project.org/package=qgraph
 
 Package license: GPL-2.0-only
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qgraph-feedstock/blob/main/LICENSE.txt)
+Summary: Weighted network visualization and analysis, as well as Gaussian graphical model computation. See Epskamp et al. (2012) <doi:10.18637/jss.v048.i04>.
+About r-qgraph
+--------------
+
+Home: https://CRAN.R-project.org/package=qgraph
+
+Package license: GPL-2.0-only
 
 Summary: Weighted network visualization and analysis, as well as Gaussian graphical model computation. See Epskamp et al. (2012) <doi:10.18637/jss.v048.i04>.
 
